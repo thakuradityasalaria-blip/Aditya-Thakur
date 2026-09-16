@@ -1,0 +1,6 @@
+{
+  "name": "bika teen talaaq.com",
+  "description": "Legal grounds for divorce, procedure guide, legal rights explainer, and verified family lawyer directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
